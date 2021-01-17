@@ -4,7 +4,7 @@ var sonaliAge = friendsAge[2]; //index number diye kono element k khuje ber korl
 console.log(sonaliAge);
 var position = friendsAge.indexOf(20); //kono ekti element er index number ber korlm
 console.log(position);
-// console.log(friendsAge.length);
+console.log(friendsAge.length);
 // friendsAge.push(22);
 // friendsAge.push(25);
 // console.log(friendsAge);
